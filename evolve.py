@@ -1,4 +1,4 @@
-﻿import argparse
+import argparse
 import importlib
 
 from evolution_engine import EvolutionEngine
@@ -93,7 +93,9 @@ def main():
         run_test()
 
     else:
-        parser.print_help()
+        run_demo()
+        print()
+        input("Press Enter to exit...")
 
 
 if __name__ == "__main__":
