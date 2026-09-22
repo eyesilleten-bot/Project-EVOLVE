@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+
+build/
+dist/
+*.spec
+
+evolve_state*.json
+*.tmp
+*.log
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
