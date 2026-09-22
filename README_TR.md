@@ -75,3 +75,34 @@ MIT License altında yayınlanmaktadır. Ayrıntılar için `LICENSE` dosyasına
 
 
 
+
+## Bu Proje Ne Yapıyor? — Teknik Bilmeyenler İçin
+
+Project EVOLVE'un temel amacı şu soruyu araştırmaktır:
+
+**Bir bilgisayar programı, her değişikliği insan tarafından yazılmadan, küçük değişiklikler deneyerek zaman içinde daha iyi hale gelebilir mi?**
+
+Bunu basitçe şöyle düşünebilirsiniz:
+
+Bir grup küçük program aynı görevi yapmaya çalışır.
+
+Bazıları görevi daha iyi yapar, bazıları daha kötü yapar.
+
+Daha iyi çalışan programlar korunur.
+
+Sonra onların biraz değiştirilmiş yeni versiyonları oluşturulur.
+
+Bu süreç tekrar tekrar devam eder.
+
+Amaç, zaman içinde sistemin kendi başına işe yarayan yeni program yapıları bulup bulamayacağını gözlemlemektir.
+
+Project EVOLVE'un araştırdığı temel fikir şudur:
+
+**"Programlar da bir tür seçilim ve değişim süreciyle evrimleşebilir mi?"**
+
+Bu proje profesyonel programlama bilgisi olmadan, yapay zekâ destekli bir geliştirme süreciyle oluşturulmuştur.
+
+Projenin fikri, hedefleri, deneylerin yönü ve hangi sonuçların araştırılacağı kullanıcı tarafından belirlenmiş; kodlama, teknik mimari ve uygulama sürecinde yapay zekâ yoğun olarak kullanılmıştır.
+
+V1'in amacı kendi genel amaçlı programlama dilini tamamlamak değildir. Ama sistemin program yapılarını değiştirebildiğini, yeni kod parçaları oluşturabildiğini ve bazı evrimleşmiş yapıların gerçekten faydalı hale gelebildiğini göstermekti.
+
