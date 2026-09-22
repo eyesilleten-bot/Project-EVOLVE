@@ -123,3 +123,20 @@ Kısacası bu proje benim için şu sorunun deneyidir:
 
 **"Bir program, insanın her adımı tek tek yazmasına gerek kalmadan, deneme ve seçilim yoluyla kendi yapısını geliştirebilir mi?"**
 
+
+## İş Görüşmesinde 30 Saniyede Nasıl Anlatırım?
+
+Project EVOLVE, programların zaman içinde kendi yapılarını değiştirerek daha iyi hale gelip gelemeyeceğini araştırdığım deneysel bir projedir.
+
+Basitçe anlatırsam, sistem birçok farklı küçük program oluşturur, bunların aynı görevi ne kadar iyi yaptığını ölçer ve daha başarılı olanların değiştirilmiş yeni versiyonlarını üretir.
+
+Bu süreci tekrar tekrar çalıştırarak, sistemin benim tek tek yazmadığım faydalı program parçaları geliştirip geliştiremeyeceğini test ettim.
+
+Ben profesyonel bir yazılımcı değilim. Projenin fikrini, hedefini, hangi deneylerin yapılacağını ve sonuçların nasıl değerlendirileceğini ben belirledim. Kodlama ve teknik mimari tarafında yapay zekâyı yoğun şekilde kullandım.
+
+V1 sonunda çalışan bir evrim sistemi, evrimleşmiş program yapıları, faydalı olduğu ölçülmüş bazı kod parçaları ve bağımsız çalışabilen bir çıktı formatı elde ettim.
+
+Kısacası bu proje benim için şu sorunun deneyidir:
+
+**"Bir program, insanın her adımı tek tek yazmasına gerek kalmadan, deneme ve seçilim yoluyla kendi yapısını geliştirebilir mi?"**
+
